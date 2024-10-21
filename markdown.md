@@ -1,5 +1,7 @@
 These are the files I have worked on either independently and/or with another member of my teams that related to data engineering, my other responsablities were building the website. I have put all of the relevant files in the "pipeline" folder.
 
+report.pdf contains the final report of the project
+
 pipeline folder:
     Processed data were used in community_detection.py...
 
